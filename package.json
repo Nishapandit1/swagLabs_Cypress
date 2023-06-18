@@ -1,0 +1,17 @@
+{
+  "name": "swaglabs",
+  "version": "1.0.0",
+  "description": "Testing of swaglabs webapplication in cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nisha Pandit",
+  "license": "ISC",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^16.0.3",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "cypress": "^12.10.0",
+    "esbuild": "^0.17.17"
+  }
+}
